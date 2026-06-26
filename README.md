@@ -30,6 +30,7 @@
   ➡️ Inclua um README.md com instruções claras para configurar e executar o projeto<br/>
   ➡️ <b>Prazo de entrega:</b> até dia 28/06/2026
 </p>
+<h2><b>Ao concluir, envie a url do seu repositório de solução para rafael.teixeira@fecap.br</b></h2>
 
 <p><b>💎 Dica!</b> Não perca tempo com estilização. Foque na funcionalidade.</p>
 <p><b>💎 Dica!</b> Simplicidade funcional > conceitos complexos e código inchado.</p>
